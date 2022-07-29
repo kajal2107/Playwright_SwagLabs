@@ -1,0 +1,5 @@
+To run specific file : 
+npx playwright test tests/cart.spec.js --headed
+
+Node ouside test
+single_test.js
